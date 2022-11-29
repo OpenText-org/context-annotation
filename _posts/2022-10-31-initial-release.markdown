@@ -7,7 +7,7 @@ categories: release
 
 # Initial Release of Context Annotation
 
-We are pleased to make available the initial `1.0.0` release of Context Annotation. This release includes the following features:
+We are pleased to make available the initial `1.0.0` release of the OpenText Context Annotation. This release includes the following features:
 
 *   **Trees** for each of the books of the Greek New Testament
 *   **Turn** data for each time someone speaks
