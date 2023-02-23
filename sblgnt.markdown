@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Data
-permalink: /data/
+title: Context Tree for the SBLGNT Edition
+permalink: /sblgnt/
 ---
 
 Click on a link below to view the rendered context tree for that book.
 
 <ul>
-{% for book in site.data.books %}
+{% for book in site.data.sblgnt %}
     <li>
         <a target="_blank" href="{{ book.url }}">{{ book.name }}</a>
     </li>
