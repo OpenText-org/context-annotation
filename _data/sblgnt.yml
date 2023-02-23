@@ -1,0 +1,54 @@
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/01-matthew.xml
+  name: Matthew
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/02-mark.xml
+  name: Mark
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/03-luke.xml
+  name: Luke
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/04-john.xml
+  name: John
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/05-acts.xml
+  name: Acts
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/06-romans.xml
+  name: Romans
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/07-1corinthians.xml
+  name: 1 Corinthians
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/08-2corinthians.xml
+  name: 2 Corinthians
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/09-galatians.xml
+  name: Galatians
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/10-ephesians.xml
+  name: Ephesians
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/11-philippians.xml
+  name: Philippians
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/12-colossians.xml
+  name: Colossians
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/13-1thessalonians.xml
+  name: 1 Thessalonians
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/14-2thessalonians.xml
+  name: 2 Thessalonians
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/15-1timothy.xml
+  name: 1 Timothy
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/16-2timothy.xml
+  name: 2 Timothy
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/17-titus.xml
+  name: Titus
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/18-philemon.xml
+  name: Philemon
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/19-hebrews.xml
+  name: Hebrews
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/20-james.xml
+  name: James
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/21-1peter.xml
+  name: 1 Peter
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/22-2peter.xml
+  name: 2 Peter
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/23-1john.xml
+  name: 1 John
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/24-2john.xml
+  name: 2 John
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/25-3john.xml
+  name: 3 John
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/26-jude.xml
+  name: Jude
+- url: https://cdn.statically.io/gh/OpenText-org/context-annotation/main/sblgnt/27-revelation.xml
+  name: Revelation
